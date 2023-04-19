@@ -1,7 +1,3 @@
-# 📋 Instruções Gerais de Uso do Git E Gitea
-
-http://10.6.43.209:3000/Manuais/GiTea_e_Git_APESP/wiki
-
 ## 📝 Descrição do Projeto
 
 Projeto CRUD Implementado com Padrão MVC, Podendo se Criar, Ver, Editar e Excluir Usuários, e com Acesso Somente com Cadastro no Banco de Dados Realizado por meio da Pagina Inicial para Acesso aos Serviços
